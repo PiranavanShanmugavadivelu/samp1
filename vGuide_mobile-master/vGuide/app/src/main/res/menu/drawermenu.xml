@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/profile" android:title="Profile" android:icon="@drawable/ic_dashboard_24px"/>
+    <item android:id="@+id/search" android:title="Search" android:icon="@drawable/ic_youtube_searched_for_24px"/>
+    <item android:id="@+id/help" android:title="Help" android:icon="@drawable/ic_event_24px"/>
+    <item android:id="@+id/settings" android:title="Settings" android:icon="@drawable/ic_settings_20px"/>
+    <!--<item android:id="@+id/activities" android:title="Activities" android:icon="@drawable/ic_trending_up_24px"/>-->
+    <item android:id="@+id/logout" android:title="Logout" android:icon="@drawable/ic_exit_to_app_24px"/>
+</menu>

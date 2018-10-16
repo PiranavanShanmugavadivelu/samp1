@@ -1,0 +1,59 @@
+{
+  "project_info": {
+    "project_number": "1087155521559",
+    "firebase_url": "https://vguide-app.firebaseio.com",
+    "project_id": "vguide-app",
+    "storage_bucket": "vguide-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1087155521559:android:4a3fbeb12e9f1694",
+        "android_client_info": {
+          "package_name": "com.example.hp.vguide"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1087155521559-ktbi9e64tvgk1rodrt4nto1vuko9e3tu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.hp.vguide",
+            "certificate_hash": "cecdc96becfac1c6707ea5f4aeb08afdffd680ec"
+          }
+        },
+        {
+          "client_id": "1087155521559-t0e8g1jntv5m2vvpk7pkue6edp6m93ge.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "1087155521559-t0e8g1jntv5m2vvpk7pkue6edp6m93ge.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8h4VuLyL56SCxS2zXxN8uqO0B5muMRF4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1087155521559-t0e8g1jntv5m2vvpk7pkue6edp6m93ge.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
